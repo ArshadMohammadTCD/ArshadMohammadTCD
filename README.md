@@ -7,7 +7,7 @@
 - [ ] Migrate the website to react. ⚛
 
 ### Things im learning now:
-1. HTML/CSS/JS 
+1. HTML/CSS/JS 🖼 
 2. React ⚛
 3. React Native 📱
 4. Deep Learning and RL 🤖
