@@ -4,7 +4,7 @@
 
 ### Goals for this year:
 - [X] Make a website. 💻 
-- [ ] Migrate the website to react gatsby. ⚛
+- [ ] Migrate the website to Gatsby. ⚛
 
 ### Things im learning now:
 1. HTML/CSS/JS 🖼 
